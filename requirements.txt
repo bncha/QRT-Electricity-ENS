@@ -2,3 +2,9 @@ pandas
 numpy
 lightgbm
 ipykernel
+scikit-learn
+seaborn
+matplotlib
+scipy
+nbconvert
+ipywidgets
